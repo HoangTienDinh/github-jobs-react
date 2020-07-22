@@ -10,4 +10,4 @@ A project with front-end in mind, built with React using Bootstrap with Github J
 - Open a terminal to host, and use ```yarn run``` or ```npm start```
 
 ## Reference
-Thanks to Kyle at Web Dev Simplified for the tutorial guide, https://www.youtube.com/watch?v=fxY1q4SCB64
+Thanks to Kyle at Web Dev Simplified for the project idea, check out his courses @ https://courses.webdevsimplified.com/
