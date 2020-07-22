@@ -7,15 +7,7 @@ A project with front-end in mind, built with React using Bootstrap with Github J
 ## Getting Started
 - Clone the project to your local device
 - Install dependencies, ```yarn install``` or ```npm install```
+- Open a terminal to host, and use ```yarn run``` or ```npm start```
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Reference
+Thanks to Kyle at Web Dev Simplified for the tutorial guide, https://www.youtube.com/watch?v=fxY1q4SCB64
