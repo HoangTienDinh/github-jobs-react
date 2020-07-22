@@ -25,7 +25,7 @@ export default function SearchForm({ params, onParamChange }) {
         </Form.Group>
         <Form.Group as={Col} xs="auto" className="ml-2">
           <Form.Check
-            onChnge={onParamChange}
+            onChange={onParamChange}
             value={params.full_time}
             name="full_time"
             id="full-time"

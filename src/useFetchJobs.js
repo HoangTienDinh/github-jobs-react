@@ -12,6 +12,11 @@ const ACTIONS = {
 // using this in front of our URL creates a proxy server for development purposses https://cors-anywhere.herokuapp.com/
 const BASE_URL =
   "https://cors-anywhere.herokuapp.com/https://jobs.github.com/positions.json";
+// issues with CORS happens some times, can be fixed with adding...
+// "proxy": "https://cors-anywhere.herokuapp.com/https://jobs.github.com",
+// to package.json, and changing BASE_URL to "/positions.json"
+
+
 
 function reducer(state, action) {
   switch (action.type) {
