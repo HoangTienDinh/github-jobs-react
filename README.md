@@ -4,8 +4,9 @@ A project with front-end in mind, built with React using Bootstrap with Github J
 ### Take a Look
 !["Gif demo for OFC"](https://github.com/HoangTienDinh/github-jobs-react/blob/master/public/Github%20Jobs.gif)
 
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Getting Started
+- Clone the project to your local device
+- Install dependencies, ```yarn install``` or ```npm install```
 
 ## Available Scripts
 
