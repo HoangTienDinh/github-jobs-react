@@ -5,6 +5,9 @@ This app allows users to navigate job postings on Github, with search functional
 ### Take a Look
 !["Gif demo for OFC"](https://github.com/HoangTienDinh/github-jobs-react/blob/master/public/Github%20Jobs.gif)
 
+## Try it out
+Test it out at https://github-jobs-1003.netlify.app/, hosted on netlify.
+
 ## Getting Started
 - Clone the project to your local device
 - Install dependencies, ```yarn install``` or ```npm install```
